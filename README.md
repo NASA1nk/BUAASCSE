@@ -1,2 +1,2 @@
 # buaa_scse
-BUAA6系961考研资料
+BUAA 6系961 考研资料
